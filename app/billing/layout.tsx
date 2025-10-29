@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'プラン - Sample',
+  title: 'プラン - Sample ',
   description: 'Sampleサービスの料金プランとサブスクリプション管理'
 }
 
